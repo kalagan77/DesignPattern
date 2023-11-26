@@ -1,15 +1,10 @@
 ﻿namespace SuperCanard
 {
-    internal class CanardEnPlastique : SuperCanard
+    internal class CanardEnPlastique : Canard
     {
         public override void Afficher()
         {
             Console.WriteLine("je suis un canard en plastique");
-        }
-
-        public override void Cancaner()
-        {
-            Console.WriteLine("Je couine");
         }
     }
 }

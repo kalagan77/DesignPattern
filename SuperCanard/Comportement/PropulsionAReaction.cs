@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SuperCanard
+namespace SuperCanard.Comportement
 {
-    internal class Mandarin : Canard
+    public class PropulsionAReaction : IVoler
     {
-        public override void Afficher()
+        public void Voler()
         {
-            Console.WriteLine("Je suis un mandarin");
+            Console.WriteLine("je vole avec un réacteur");
         }
     }
 }

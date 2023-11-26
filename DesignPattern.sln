@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCanard", "SuperCanard\SuperCanard.csproj", "{74881C08-129F-401E-9961-8CE5379BD34C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperCanard", "SuperCanard\SuperCanard.csproj", "{74881C08-129F-401E-9961-8CE5379BD34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCanard", "TestCanard\TestCanard.csproj", "{ACCCBD3E-65D4-429E-8E64-E65DC5A6DFF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{74881C08-129F-401E-9961-8CE5379BD34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74881C08-129F-401E-9961-8CE5379BD34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74881C08-129F-401E-9961-8CE5379BD34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCCBD3E-65D4-429E-8E64-E65DC5A6DFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCCBD3E-65D4-429E-8E64-E65DC5A6DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCCBD3E-65D4-429E-8E64-E65DC5A6DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCCBD3E-65D4-429E-8E64-E65DC5A6DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

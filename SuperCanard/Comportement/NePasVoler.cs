@@ -6,7 +6,7 @@ namespace SuperCanard.Comportement
     {
         public void Voler()
         {
-            //Console.WriteLine("je vole avec des ailes");
+            Console.WriteLine("je ne sais pas voler");
         }
     }
 }
