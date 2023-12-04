@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SuperCanard\SuperCanard.csproj" />
+    <ProjectReference Include="..\SuperCanard\1_SuperCanard.csproj" />
   </ItemGroup>
 
 </Project>

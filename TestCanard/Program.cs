@@ -2,6 +2,9 @@
 using SuperCanard;
 using SuperCanard.Comportement;
 
+//super canard => stratégie
+//donnees meteo => observateur
+
 Console.WriteLine("Hello, World!");
 
 Colvert colvert= new Colvert();
