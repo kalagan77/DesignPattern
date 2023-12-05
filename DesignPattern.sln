@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_TestCanard", "TestCanard\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_MeteoExpress", "1_MeteoExpress\2_MeteoExpress.csproj", "{67A401A4-2393-4238-94B0-283AC787D23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Decorateur", "3_Decorateur\3_Decorateur.csproj", "{F05FA7B7-3744-4D92-8013-1A191BB0C77C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{67A401A4-2393-4238-94B0-283AC787D23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A401A4-2393-4238-94B0-283AC787D23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A401A4-2393-4238-94B0-283AC787D23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05FA7B7-3744-4D92-8013-1A191BB0C77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05FA7B7-3744-4D92-8013-1A191BB0C77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05FA7B7-3744-4D92-8013-1A191BB0C77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05FA7B7-3744-4D92-8013-1A191BB0C77C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
