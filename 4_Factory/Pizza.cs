@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _4_Factory
 {
     public class Pizza
-    {
+    { 
         public void Preparer()
         {
             throw new NotImplementedException();
