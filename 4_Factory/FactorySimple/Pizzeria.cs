@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _4_Factory
+namespace _4_Factory.FactorySimple
 {
     public abstract class Pizzeria
     {
@@ -21,6 +21,6 @@ namespace _4_Factory
             return pizza;
         }
 
-        public abstract Pizza CreerPizza(string type);
+        protected abstract Pizza CreerPizza(string type);
     }
 }
