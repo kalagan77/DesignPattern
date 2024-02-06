@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _5_Commande
 {
-    internal interface ICommande
+    public interface ICommande
     {
         void Executer();
     }
