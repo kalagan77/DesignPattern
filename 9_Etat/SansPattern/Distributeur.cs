@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _9_Etat
+﻿namespace _9_Etat.SansPattern
 {
     internal class Distributeur
     {
@@ -14,11 +8,11 @@ namespace _9_Etat
         public Distributeur(int nombre)
         {
             _nombre = nombre;
-            if(nombre > 0)
+            if (nombre > 0)
             {
                 etat = TypeEtat.SANS_PIECE;
             }
-                
+
         }
 
     }
