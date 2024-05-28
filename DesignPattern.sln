@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_Adaptateur", "6_Adaptateu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7_PatronMethode", "7_PatronMethode\7_PatronMethode.csproj", "{E8FD1454-879B-488C-9EAF-6D01A2713768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTS_Mediator", "HTS_Mediator\HTS_Mediator.csproj", "{EA5B8B96-3798-4422-B7F9-642A08B33779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTS_Mediator", "HTS_Mediator\HTS_Mediator.csproj", "{EA5B8B96-3798-4422-B7F9-642A08B33779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Etat", "9_Etat\9_Etat.csproj", "{43238B99-198F-4E74-890C-907356CB07C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{EA5B8B96-3798-4422-B7F9-642A08B33779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5B8B96-3798-4422-B7F9-642A08B33779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5B8B96-3798-4422-B7F9-642A08B33779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43238B99-198F-4E74-890C-907356CB07C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43238B99-198F-4E74-890C-907356CB07C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43238B99-198F-4E74-890C-907356CB07C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43238B99-198F-4E74-890C-907356CB07C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
