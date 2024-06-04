@@ -59,6 +59,15 @@ namespace _9_Etat.avecPattern
             }
         }
 
+        public void GetEtatGagnant()
+        {
+            Console.WriteLine("un bonbon va sortir");
+            if (nombre != 0)
+            {
+                nombre--;
+            }
+        }
+
         public void SetEtat(IEtat etat) { 
             etatCourant = etat; 
         }

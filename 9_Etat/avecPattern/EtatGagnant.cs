@@ -17,7 +17,9 @@ namespace _9_Etat.avecPattern
 
         public void Delivrer()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Vous avez gagné 2 bonbons pour le prix d'un !");
+            _distributeur.Liberer();
+            //blablabla
         }
 
         public void EjecterPiece()
